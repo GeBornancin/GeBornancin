@@ -2,7 +2,7 @@
 ### Sobre mim
 💻 Eu sou um desenvolvedor Fullstack.
 <br>
-🎓 Eu estudo Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná - Paranaguá
+🎓 Formado em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná - Paranaguá
 
 ### Eu já trabalhei com... 🔧
 
