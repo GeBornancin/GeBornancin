@@ -4,7 +4,7 @@
 <br>
 🎓 Formado em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná - Paranaguá
 
-### Eu já trabalhei com... 🔧
+### Atualmente trabalho na WHB Automotive fazendo customizações no Protheus com a linguagem ADVPL. 🔧
 
 **Tecnologias e Ferramentas** 
 <br>
