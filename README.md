@@ -4,8 +4,6 @@
 <br>
 🎓 Formado em Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná - Paranaguá
 
-### Atualmente trabalho na WHB Automotive fazendo customizações no Protheus com a linguagem ADVPL. 🔧
-
 **Tecnologias e Ferramentas** 
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
